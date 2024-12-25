@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\SOAPService\bin\Debug\SOAPService.dll.config
+C:\Users\HP\source\repos\SOAPService\bin\Debug\SOAPService.dll
+C:\Users\HP\source\repos\SOAPService\bin\Debug\SOAPService.pdb
+C:\Users\HP\source\repos\SOAPService\obj\Debug\SOAPService.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SOAPService\obj\Debug\SOAPService.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SOAPService\obj\Debug\SOAPService.dll
+C:\Users\HP\source\repos\SOAPService\obj\Debug\SOAPService.pdb
