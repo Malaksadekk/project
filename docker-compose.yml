@@ -1,0 +1,17 @@
+yaml
+version: '3.8'
+services:
+  soap:
+    build: ./SOAPService
+    ports:
+      - "8001:80"
+
+  rest:
+    build: ./RESTApi
+    ports:
+      - "8002:80"
+
+  grpc:
+    build: ./GrpcService
+    ports:
+      - "8003:80"
